@@ -1,0 +1,21 @@
+배열과 리스트는 차이점이 존재함
+두개는 정반대
+
+배열은 
+탐색에는 O(1)의 시간이 소요됨
+추가에는 O(n)의 시간이 소요됨
+
+
+연결리스트는
+탐색에는 O(n)의 시간이 소요됨
+추가에는 O(1)의 시간이 소요됨
+
+연결 리스트에는
+
+singly linked List, 
+
+doubly linked List, 
+
+circular linked List
+
+
